@@ -79,3 +79,7 @@ SELECT 'DOT',  ROUND(AVG(same_btc_dot) * 100, 2),  COUNT(same_btc_dot)  FROM fla
 UNION ALL
 SELECT 'SOL',  ROUND(AVG(same_btc_sol) * 100, 2),  COUNT(same_btc_sol)  FROM flags
 ORDER BY coin;
+
+## 📬 Contact
+- **Author:** Damian Sobolewski
+- **LinkedIn:** [Damian Sobolewski Profile](https://www.linkedin.com/in/damian-sobolewski-43257a260/)
